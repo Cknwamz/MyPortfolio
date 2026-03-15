@@ -9,7 +9,7 @@ import { ContactSection } from "@/components/contact-section";
 
 const PROJECTS = [
   {
-    title: "Tireni Needs",
+    title: "Tireni Needs Fitness",
     description: "Designed a full mobile UI including authentication screens, workout tracking screens, and dashboards. Currently developing backend structure, navigation flow, and API logic.",
     tags: ["React Native", "Expo", "Authentication"],
     githubUrl: "https://github.com/cknwamz",
