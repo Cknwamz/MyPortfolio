@@ -103,11 +103,11 @@ export default function Home() {
             I'm CK NWAMU.
           </h1>
           
-          <div className="text-2xl md:text-3xl text-foreground/80 mb-6 font-light h-16 md:h-12 max-w-3xl">
+          <div className="text-2xl md:text-3xl text-foreground/80 mb-6 font-light max-w-3xl">
             Aspiring Software Engineer skilled in C++, JavaScript, React Native, Linux, and AI fundamentals.
           </div>
 
-          <div className="text-xl md:text-2xl text-foreground/60 mb-8 font-mono h-12">
+          <div className="text-xl md:text-2xl text-foreground/60 mb-8 font-mono min-h-[4rem] sm:min-h-[3rem]">
             &gt;{" "}
             <Typewriter 
               words={["Software Engineering Intern", "Web Developer", "Mobile App Developer"]} 
